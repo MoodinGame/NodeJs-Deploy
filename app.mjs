@@ -7,7 +7,7 @@ const port = 3000;
 app.use("combined");
 
 app.get("/", (req, res) => {
-  res.send("Hello Game");
+  res.send("Hello Game5555");
 });
 
 app.listen(port, () => {
